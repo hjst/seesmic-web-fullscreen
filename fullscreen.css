@@ -1,6 +1,3 @@
-#sideBarPanel {
-  display: none;
-}
-#columnsContainerId {
-  width: auto;
-}
+#sideBarPanel { display: none; }
+#columnsContainerId { width: auto !important; }
+#contentPanel { width: auto !important; }
