@@ -11,4 +11,4 @@ link.type = 'text/css';
 link.rel = 'stylesheet';
 link.media = 'screen';
 link.title = 'dynamicLoadedSheet';
-document.getElementsByTagName("head")[0].appendChild(cssNode);
+document.getElementsByTagName("head")[0].appendChild(link);
